@@ -16,8 +16,7 @@ Sebelum menggunakan aplikasi ini silakan atur konfigurasi database terlebih dahu
 
 Untuk tampilan terbaik, gunakan browser Google Chrome versi terbaru.
 
-Inspired by Nur Akhwam.
+Informasi Password dan username :
 
----
-
-Informasi lengkap seputar `username` dan `password` untuk login bisa dilihat di https://masrud.com/aplikasi-manajemen-surat/
+- Username = masrud
+- password = masrud.com
